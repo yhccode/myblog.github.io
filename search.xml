@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>how-to-change-pages</title>
+      <link href="/2019/12/17/my-first-blog/"/>
+      <url>/2019/12/17/my-first-blog/</url>
+      
+        <content type="html"><![CDATA[<p>同步blog的命令</p><blockquote><p>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
