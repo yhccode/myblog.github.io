@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>escplie创建Java项目</title>
+      <link href="/2019/12/26/escpile%E5%88%9B%E5%BB%BAJava%E9%A1%B9%E7%9B%AE/"/>
+      <url>/2019/12/26/escpile%E5%88%9B%E5%BB%BAJava%E9%A1%B9%E7%9B%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="escplie创建Java项目"><a href="#escplie创建Java项目" class="headerlink" title="escplie创建Java项目"></a>escplie创建Java项目</h1><hr><ol><li>第一步：<ul><li>新建一个Java项目</li><li>在Project name中填写 项目的名称（建议用英文字母或单词）</li><li>勾选 Use default JRE即可最后点击Finish 创建成功</li></ul></li><li>第二步：<ul><li>找到目录的src文件夹 鼠标右键 选择New →Class 创建一个类。</li><li>Package 是包名，可以选择性命名。Name 是类名，填写。（建议使用英文单词并且第一个字母大写接下来）</li><li>勾选(public static void main(String[] args)) 点击Finish 完成类的创建</li></ul></li></ol>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> escplie </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>how-to-change-pages</title>
       <link href="/2019/12/17/my-first-blog/"/>
       <url>/2019/12/17/my-first-blog/</url>
